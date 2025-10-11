@@ -1,14 +1,6 @@
-import time
 import threading
+import time
 
-# Normal process
-def process(numbers):
-    start = time.time()
-    total = sum(numbers)
-    end = time.time()
-    print(f"Normal sum: {total}, Time taken: {end - start:.5f} sec\n")
-
-# Threaded process
 def threaded_process(numbers, num_threads):
     start = time.time()
     chunk_size = len(numbers) // num_threads
@@ -32,10 +24,7 @@ def threaded_process(numbers, num_threads):
     end = time.time()
     print(f"Threaded sum ({num_threads} threads): {total}, Time taken: {end - start:.5f} sec")
 
-
 if __name__ == "__main__":
-    data = list(range(1, 1_000_001))  # 1 million numbers
-    process(data)
-
+    data = list(range(1, 1_000_001))
     for n in [5, 10, 15, 50]:
         threaded_process(data, n)
