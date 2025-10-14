@@ -37,10 +37,10 @@ Chapter 1
 Chapter 2  
 | Condition | Lock | RLock | Semaphore |
 
-| ![Condition Output](CHAPTER%202/screenshots/condition_output.png) | ![Lock Output](CHAPTER%202/screenshots/lock_output.png) | ![RLock Output](CHAPTER%202/screenshots/rlock_output.png) | ![Semaphore Output](CHAPTER%202/screenshots/semaphore_output.png) |
+| ![Condition Output](C:\Users\Hp\PDC\CHAPTER 2\screenshots\Condition.png) | ![Lock Output](C:\Users\Hp\PDC\CHAPTER 2\screenshots\lock.png) | ![RLock Output](C:\Users\Hp\PDC\CHAPTER 2\screenshots\R-lock.png) | ![Semaphore Output](C:\Users\Hp\PDC\CHAPTER 2\screenshots\Semaphore.png) |
 
 Repository Link  
-👉 View on GitHub: [https://github.com/maira-asif70/PDC](https://github.com/maira-asif70/PDC)
+👉 View on GitHub: [https://github.com/maira-asif/PDC]
 
 Technologies Used  
 
