@@ -28,17 +28,6 @@ Both chapters calculate the sum of a large array (1 to 1,000,000).
 
 Screenshots
 
-Chapter 1  
-
-| Normal Sum | Threaded Sum |
-|-------------|--------------|
-| ![Normal Output](CHAPTER%201/screenshots/normal_output.png) | ![Threaded Output](CHAPTER%201/screenshots/threaded_output.png) |
-
-Chapter 2  
-| Condition | Lock | RLock | Semaphore |
-
-| ![Condition Output](C:\Users\Hp\PDC\CHAPTER 2\screenshots\Condition.png) | ![Lock Output](C:\Users\Hp\PDC\CHAPTER 2\screenshots\lock.png) | ![RLock Output](C:\Users\Hp\PDC\CHAPTER 2\screenshots\R-lock.png) | ![Semaphore Output](C:\Users\Hp\PDC\CHAPTER 2\screenshots\Semaphore.png) |
-
 Repository Link  
 👉 View on GitHub: [https://github.com/maira-asif/PDC]
 
